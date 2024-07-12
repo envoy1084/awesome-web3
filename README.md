@@ -373,6 +373,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 | Selfkey       | Selfkey is another platform that’s sole purpose is to allow users to create their own decentralized identity within the world of Web 3.0. From accessing online worlds in the metaverse to gaining entry into all of your crypto accounts, Selfkey wants users to have one point of access – themselves. | https://selfkey.org/       |
 | Trust Wallet  | You can use this wallet to send, receive and store cryptocurrencies and connect with a wide range of dApps.                                                                                                                                                                                              | https://trustwallet.com/   |
 | WalletConnect | WalletConnect is the web3 standard to connect blockchain wallets to dapps.                                                                                                                                                                                                                               | https://walletconnect.com/ |
+| Ambire        | Ambire is the first hybrid Account abstraction wallet to support Basic (EOA) and Smart accounts, improving security and user experience.                                                                                                                                                                 | https://www.ambire.com/    |
 
 <br>
 
