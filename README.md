@@ -731,6 +731,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 <br>
 
 ## 🌐 Useful Websites
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or program ID and alerts on Telegram when a new transaction shows up, no API key required.
 
 | Name                          | Description                                                                                                                                                                                                                              | Link                                          |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
