@@ -756,6 +756,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 | mynfteam                      | Web3 collaboration platform                                                                                                                                                                                                              | https://mynf.team                             |
 | NFTs2Me                       | NFTs2Me is a user-friendly tool for creating and managing NFT projects with features such as art generator, delayed reveal, minting widget, token gating and more.                                                                       | https://nfts2me.com/                          |
 | Cryptocurrency Alerting       | Cryptocurrency and blockchain monitoring with email, SMS, phone call, Slack, and Discord alerts.                                                                                                                 | https://cryptocurrencyalerting.com/        |
+| FerimanEdge Regime Tracker | Free rule-based BTC, ETH and BNB market regime monitoring with hourly updates. | https://ferimanedge.com/regime        |
 
 
 <br>
